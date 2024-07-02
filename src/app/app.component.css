@@ -1,0 +1,15 @@
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 48px;
+    color: #4A90E2;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #FFD700, #FF8C00);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    letter-spacing: 2px;
+  }
+  
